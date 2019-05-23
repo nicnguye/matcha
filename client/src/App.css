@@ -1,0 +1,37 @@
+body {
+  background: #f8bbd0;
+}
+
+.main-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+main {
+  padding-bottom: 250px;
+}
+
+.page-footer {
+  /* footer */
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.login {
+  margin-top: 100px;
+}
+
+.sidenav {
+  width: 160px;
+  margin-top: 64px;
+}
+
+@media screen and (max-width: 600px) {
+  .sidenav {
+    width: 110px;
+    margin-top: 56px;
+  }
+}
