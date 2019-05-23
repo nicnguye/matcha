@@ -1,5 +1,5 @@
 # matcha
-Site inspiré de Tinder développé en NodeJS, ReactJS et Redux sur une BDD MYSQL
+Site inspiré de Tinder développé en NodeJS, ReactJS et Redux sur une BDD MYSQL (Utilisation de Materialize pour le front)
 
 - L'utilisateur après inscription peut 'liker' d'autres utilisateurs déjà inscrits (ces utilisateurs sont des fakes pour ce projet d'où les genres et noms random)
 - Si 2 utilisateurs se sont 'liker' mutuellement, c'est un match et ils peuvent donc discuter ensemble sur un chat
