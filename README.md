@@ -1,5 +1,11 @@
 # matcha
 Site inspiré de Tinder
+Développé en NodeJS, ReactJS et Redux
+
+- L'utilisateur après inscription peut 'liker' d'autres utilisateurs déjà inscrits (ces utilisateurs sont des fakes pour ce projet d'où les genres et noms random)
+- Si 2 utilisateurs se sont 'liker' mutuellement, c'est un match et ils peuvent donc discuter ensemble sur un chat
+- Possibilité de modifier son profil: photo, genre, nom, centres d'intérêts, etc...
+
 
 # Authentification
 ![login](https://user-images.githubusercontent.com/33840666/58272257-697ae300-7d8e-11e9-9c8b-ce9f5c172c4b.png)
